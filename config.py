@@ -98,7 +98,7 @@ GROUPS = [
     },
     {
         "n": 6,
-        "cap": 5,
+        "cap": 6,
         "leader": "Nicholas Wandere",
         "stations": [
             "Thika",
@@ -107,7 +107,7 @@ GROUPS = [
     },
     {
         "n": 7,
-        "cap": 5,
+        "cap": 6,
         "leader": "Tony Gecaga",
         "stations": [
             "Thika View",
