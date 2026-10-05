@@ -16,6 +16,7 @@ ROSTER = [
     "Fredrick Bundi",
     "Henry Melly",
     "Jacob Mburugu",
+    "Jane Kinyungu",
     "James Mutisya",
     "John Gichuki",
     "John Mwangi",
