@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 
 
 def _now():
-    return datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+    return datetime.now(timezone.eat).strftime("%Y-%m-%d %H:%M:%S UTC")
 
 
 class SQLiteStore:
