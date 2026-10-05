@@ -5,6 +5,7 @@ ROSTER = [
     "Antony Wanjohi",
     "Appolo Kilei",
     "Benalyne Ngeno",
+    "Henry Melly",
     "Beryl Kirui",
     "Byrum Masheti",
     "Christine Ngugi",
